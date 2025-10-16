@@ -16,6 +16,8 @@ For detailed information on specific aspects of OctoAcme's project management ap
 
 - [Project Management Overview](octoacme-project-management-overview.md) - Principles, roles, and lifecycle
 - [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role descriptions and responsibilities
+- [Role Interaction Matrix](octoacme-role-interaction-matrix.md) - Cross-functional collaboration patterns and touchpoints
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md) - Guidelines for smooth transitions between roles and phases
 - [Project Initiation](octoacme-project-initiation.md) - Starting new projects
 - [Project Planning](octoacme-project-planning.md) - Planning and scoping
 - [Execution and Tracking](octoacme-execution-and-tracking.md) - Day-to-day workflows and quality practices
